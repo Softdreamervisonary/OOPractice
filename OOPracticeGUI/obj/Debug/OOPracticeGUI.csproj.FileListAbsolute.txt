@@ -1,0 +1,5 @@
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\bin\Debug\OOPracticeGUI.exe.config
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\bin\Debug\OOPracticeGUI.exe
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\bin\Debug\OOPracticeGUI.pdb
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\obj\Debug\OOPracticeGUI.exe
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\obj\Debug\OOPracticeGUI.pdb
