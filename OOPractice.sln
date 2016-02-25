@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPracticeGUI", "OOPractice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPracticeGUI.Servcie", "OOPracticeGUI.Servcie\OOPracticeGUI.Servcie.csproj", "{2C9BE320-79C8-4581-9413-C5BF1CEE2E6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPracticeCal", "OOPracticeCal\OOPracticeCal.csproj", "{B3C29210-FF81-49AD-97E2-246D067FF551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcashier.Service", "funcashier.Service\funcashier.Service.csproj", "{98896991-4362-4A3E-8AED-23688BC3F608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2C9BE320-79C8-4581-9413-C5BF1CEE2E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9BE320-79C8-4581-9413-C5BF1CEE2E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9BE320-79C8-4581-9413-C5BF1CEE2E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C29210-FF81-49AD-97E2-246D067FF551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C29210-FF81-49AD-97E2-246D067FF551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C29210-FF81-49AD-97E2-246D067FF551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C29210-FF81-49AD-97E2-246D067FF551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98896991-4362-4A3E-8AED-23688BC3F608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98896991-4362-4A3E-8AED-23688BC3F608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98896991-4362-4A3E-8AED-23688BC3F608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98896991-4362-4A3E-8AED-23688BC3F608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

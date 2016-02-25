@@ -45,7 +45,6 @@ namespace OOPracticeGUI.Servcie
         //    return area;
         //}
 
-
         public abstract class Shape
         {
             public abstract double Area();
@@ -70,7 +69,6 @@ namespace OOPracticeGUI.Servcie
             }
         }
 
-
         public double Area(Shape[] shapes)
         {
             double area = 0;
@@ -82,6 +80,10 @@ namespace OOPracticeGUI.Servcie
             return area;
         }
 
+
+        
+
+        
 
     }
 }

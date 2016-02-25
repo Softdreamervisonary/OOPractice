@@ -3,3 +3,4 @@ c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPractic
 c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\bin\Debug\OOPracticeGUI.pdb
 c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\obj\Debug\OOPracticeGUI.exe
 c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeGUI\obj\Debug\OOPracticeGUI.pdb
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\OOPracticeGUI\obj\Debug\OOPracticeGUI.csprojResolveAssemblyReference.cache
