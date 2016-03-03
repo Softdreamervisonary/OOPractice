@@ -37,11 +37,6 @@ namespace ObserverPattern
             }
         }
 
-        // 訂閱報紙
-        public void 召喚勇者(I勇者 pCustomer)
-        {
-            增加勇者(pCustomer);
-        }
 
         // 取消訂閱報紙
         public void 移除勇者(I勇者 pCustomer)
