@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPracticeCal", "OOPractice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcashier.Service", "funcashier.Service\funcashier.Service.csproj", "{98896991-4362-4A3E-8AED-23688BC3F608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{DDEF50D3-ABF7-4996-9904-B01D03D8DE83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{98896991-4362-4A3E-8AED-23688BC3F608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98896991-4362-4A3E-8AED-23688BC3F608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98896991-4362-4A3E-8AED-23688BC3F608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEF50D3-ABF7-4996-9904-B01D03D8DE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEF50D3-ABF7-4996-9904-B01D03D8DE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEF50D3-ABF7-4996-9904-B01D03D8DE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEF50D3-ABF7-4996-9904-B01D03D8DE83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

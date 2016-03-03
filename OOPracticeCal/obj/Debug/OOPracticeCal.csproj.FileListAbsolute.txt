@@ -1,0 +1,6 @@
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\bin\Debug\OOPracticeCal.exe.config
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\bin\Debug\OOPracticeCal.exe
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\bin\Debug\OOPracticeCal.pdb
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\obj\Debug\OOPracticeCal.csprojResolveAssemblyReference.cache
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\obj\Debug\OOPracticeCal.exe
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\OOPracticeCal\obj\Debug\OOPracticeCal.pdb

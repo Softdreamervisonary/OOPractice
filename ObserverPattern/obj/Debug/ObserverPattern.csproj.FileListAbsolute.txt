@@ -1,0 +1,6 @@
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache

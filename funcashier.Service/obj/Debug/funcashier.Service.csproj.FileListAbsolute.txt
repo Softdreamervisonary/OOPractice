@@ -1,0 +1,5 @@
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\funcashier.Service\bin\Debug\funcashier.Service.dll
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\funcashier.Service\bin\Debug\funcashier.Service.pdb
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\funcashier.Service\obj\Debug\funcashier.Service.dll
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\funcashier.Service\obj\Debug\funcashier.Service.pdb
+c:\users\簡單生活\documents\visual studio 2015\Projects\OOPractice\funcashier.Service\obj\Debug\funcashier.Service.csprojResolveAssemblyReference.cache
