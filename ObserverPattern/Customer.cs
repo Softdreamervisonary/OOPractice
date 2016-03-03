@@ -8,7 +8,7 @@ namespace ObserverPattern
 {
     public class 英雄 : I勇者
     {
-        public string MyName { private get; set; }
+        public string MyName { get; set; }
 
         public 英雄(string pName)
         {
