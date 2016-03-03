@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
-    <Compile Include="IObserver.cs" />
+    <Compile Include="英雄.cs" />
+    <Compile Include="I勇者.cs" />
     <Compile Include="I工會服務.cs" />
     <Compile Include="冒險公會.cs" />
     <Compile Include="Program.cs" />
