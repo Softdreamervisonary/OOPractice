@@ -1,0 +1,1 @@
+C:\Users\簡單生活\Documents\Visual Studio 2015\Projects\OOPractice\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
